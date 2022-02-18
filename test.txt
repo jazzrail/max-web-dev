@@ -1,1 +1,2 @@
 This my first commit.
+Added global user and email. This will be commit number 2.
