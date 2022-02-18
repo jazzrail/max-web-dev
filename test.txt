@@ -1,5 +1,3 @@
 This my first commit.
 Added global user and email. This will be commit number 2.
 
-NB.  What happens ids that when you try to oush it gives a message saying you can't.  Press Cancel.
-It oopens a bar at the top of VS Code.  Enter Jazzrail.  The the password is the personal access token I created: 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
